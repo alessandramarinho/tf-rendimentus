@@ -1,6 +1,6 @@
 # Talent Fest 2020 - Safra Rendimentus
 
-Para acessar a página [clique aqui]().
+Para acessar a página [clique aqui](https://tf-rendimentus.web.app/).
 
 ```sh
 Login: jose.silva@email.com
