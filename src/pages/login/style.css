@@ -10,9 +10,7 @@
     background-color: #1E2044;
     align-items: center;
 }
-.logo{
- 
-    width: 257px;
+.logo-login{
     height: 72px;
     left: 57px;
     margin-top: 40px;
@@ -110,9 +108,9 @@
         font-size: 20px;
 
     }
-    .header-logo {        
+    .header-logo {    
+        width: 65vw;    
         padding: 0%;
-        width: 257px;
         height: 72px;
     }
     .logo {

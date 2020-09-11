@@ -3,7 +3,7 @@ import  React from 'react';
 import '../style.css'
 
 const Logo = (props) => (
-    <div className="logo">
+    <div className="logo-login">
         <img class = "header-logo" src = {require("./banco-safra-logo.png")} alt="logo do Safra"/>
     </div>
 );
